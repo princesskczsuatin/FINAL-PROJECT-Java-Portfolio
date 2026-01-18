@@ -1,7 +1,6 @@
 # Laboratory Activity #1 – Java Programming Review
 
-This laboratory activity focuses on reviewing fundamental Java programming concepts through the development of a console-based Campus Library Book Management System. The program simulates a basic library environment where book records are managed using arrays and controlled through user input.
-The system allows the user to add book titles, update the status of each book, display all registered books, and generate a summary report of available and borrowed books. Input validation is implemented to ensure program stability and correct user interaction.
+Through the creation of a console-based Campus Library Book Management System, this lab exercise focuses on covering basic Java programming ideas. The application mimics a simple library setting in which user input controls and arrays are used to handle book records. The user may view all registered books, add book titles, update each book's status, and create a summary report of the books that are available and borrowed. To guarantee software stability and proper user engagement, input validation is used.
 
 The following Java concepts are applied in this activity:
 - Arrays for data storage
