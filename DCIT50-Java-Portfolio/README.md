@@ -1,8 +1,8 @@
 # Overview
 
-This repository contains the complete set of laboratory activities developed for the course DCIT 50 – Object-Oriented Programming using Java. The purpose of this compilation is to demonstrate progressive learning in Java programming, starting from fundamental syntax and control structures and advancing toward object-oriented design, abstraction, polymorphism, and graphical user interface development.
+The whole collection of lab exercises created for DCIT 50: Object-Oriented Programming with Java is available in this repository. The present collection intended to illustrate how to learn Java programming in a systematic manner, beginning with basic grammar and control structures and moving on to object-oriented design, abstraction, polymorphism, and graphical user interface creation.
 
-Each laboratory activity is organized into a separate folder and includes its own README.md file to clearly document the objectives, program behavior, and Java concepts applied. This structure ensures clarity, maintainability, and ease of evaluation.
+To clearly record the goals, program behavior, and Java ideas used, each lab exercise is arranged into its own folder and contains a README.md file. Clarity, maintainability, and simplicity of assessment are guaranteed by this framework.
 
 # Prepared by:
 Princess Kc Z. Suatin
